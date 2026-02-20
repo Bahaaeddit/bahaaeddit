@@ -1,16 +1,19 @@
-## Hi there 👋
+# Baha Eddin
 
-<!--
-**Bahaaeddit/bahaaeddit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Science | Python | Machine Learning | SQL
 
-Here are some ideas to get you started:
+I am transitioning into Data Science with a strong background in operations management and data-driven decision making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python (pandas, numpy, matplotlib, scikit-learn)
+- SQL for data extraction and analysis
+- Data cleaning, EDA, and modeling
+- Business problem solving using data
+
+Currently building real-world portfolio projects focused on:
+- Exploratory Data Analysis
+- Machine Learning models
+- Forecasting and regression
+- End-to-end project structure (data → modeling → insights)
+
+📂 Featured Projects:
+- (Coming soon)
